@@ -1,0 +1,11 @@
+C:\Users\ivang\OneDrive\Desktop\arraysort\ArraySorter\bin\Debug\ArraySorter.exe.config
+C:\Users\ivang\OneDrive\Desktop\arraysort\ArraySorter\bin\Debug\ArraySorter.exe
+C:\Users\ivang\OneDrive\Desktop\arraysort\ArraySorter\bin\Debug\ArraySorter.pdb
+C:\Users\ivang\OneDrive\Desktop\arraysort\ArraySorter\obj\Debug\Sokolov.csproj.AssemblyReference.cache
+C:\Users\ivang\OneDrive\Desktop\arraysort\ArraySorter\obj\Debug\Sokolov.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivang\OneDrive\Desktop\arraysort\ArraySorter\obj\Debug\ArraySorter.Form1.resources
+C:\Users\ivang\OneDrive\Desktop\arraysort\ArraySorter\obj\Debug\ArraySorter.Properties.Resources.resources
+C:\Users\ivang\OneDrive\Desktop\arraysort\ArraySorter\obj\Debug\Sokolov.csproj.GenerateResource.cache
+C:\Users\ivang\OneDrive\Desktop\arraysort\ArraySorter\obj\Debug\Sokolov.csproj.CoreCompileInputs.cache
+C:\Users\ivang\OneDrive\Desktop\arraysort\ArraySorter\obj\Debug\ArraySorter.exe
+C:\Users\ivang\OneDrive\Desktop\arraysort\ArraySorter\obj\Debug\ArraySorter.pdb
